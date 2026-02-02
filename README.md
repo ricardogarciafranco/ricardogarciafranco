@@ -4,7 +4,7 @@
 **`📊 Dados, Automação e Solução de Problemas`**
 **`🚀 Buscando Estágio em Tecnologia/Dados `**
 
-Sou estudante de Ciência da Computação com foco em dados, automação e solução de problemas reais com tecnologia. Tenho formação complementar em Python, SQL, Excel e Power BI, aplicando esses conhecimentos em projetos práticos de análise e organização de dados. Meu interesse está em análise de dados, automação de processos e desenvolvimento de soluções simples que economizam tempo e melhoram resultados.Atualmente busco estágio em tecnologia ou dados onde eu possa aprender rápido, contribuir com soluções e gerar impacto mensurável.
+Sou estudante de Ciência da Computação com foco em dados, automação e solução de problemas reais com tecnologia. Tenho formação complementar em Python, SQL, Excel e Power BI, aplicando esses conhecimentos em projetos práticos de análise e organização de dados. Meu interesse está em análise de dados, automação de processos e desenvolvimento de soluções simples que economizam tempo e melhoram resultados. Atualmente busco estágio em tecnologia ou dados onde eu possa aprender rápido, contribuir com soluções e gerar impacto mensurável.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/ricardogarciafranco/" target="_blank">
